@@ -1,0 +1,19 @@
+{
+  "name": "passport-vkontakte-examples-login",
+  "version": "0.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "2.5.1",
+    "express": "4.14.0",
+    "express-session": "^1.15.6",
+    "passport": "0.3.2",
+    "passport-oauth2": "^1.4.0",
+    "passport-vkontakte": "^0.3.2",
+    "pkginfo": "^0.4.0"
+  },
+  "scripts": {
+    "start": "node app"
+  }
+}
